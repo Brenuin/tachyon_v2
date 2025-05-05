@@ -1,6 +1,0 @@
-C:/Users/skyle/tachyon-v2/build/CMakeFiles/main.dir
-C:/Users/skyle/tachyon-v2/build/CMakeFiles/glfwt.dir
-C:/Users/skyle/tachyon-v2/build/CMakeFiles/vectort.dir
-C:/Users/skyle/tachyon-v2/build/CMakeFiles/main_test.dir
-C:/Users/skyle/tachyon-v2/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/skyle/tachyon-v2/build/CMakeFiles/ZERO_CHECK.dir
